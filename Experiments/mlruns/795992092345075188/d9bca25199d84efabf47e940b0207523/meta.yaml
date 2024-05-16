@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/d9bca25199d84efabf47e940b0207523/artifacts
+end_time: 1715896981248
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: d9bca25199d84efabf47e940b0207523
+run_name: awesome-trout-130
+run_uuid: d9bca25199d84efabf47e940b0207523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715896980600
+status: 4
+tags: []
+user_id: Admin

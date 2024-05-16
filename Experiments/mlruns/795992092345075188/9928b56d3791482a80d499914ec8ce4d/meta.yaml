@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/9928b56d3791482a80d499914ec8ce4d/artifacts
+end_time: 1715897326681
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: 9928b56d3791482a80d499914ec8ce4d
+run_name: clumsy-cub-337
+run_uuid: 9928b56d3791482a80d499914ec8ce4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715897324682
+status: 4
+tags: []
+user_id: Admin

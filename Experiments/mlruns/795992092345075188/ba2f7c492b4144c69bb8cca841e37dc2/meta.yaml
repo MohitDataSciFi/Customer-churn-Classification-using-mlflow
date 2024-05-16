@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/ba2f7c492b4144c69bb8cca841e37dc2/artifacts
+end_time: 1715897784618
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: ba2f7c492b4144c69bb8cca841e37dc2
+run_name: loud-gnat-565
+run_uuid: ba2f7c492b4144c69bb8cca841e37dc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715897782650
+status: 3
+tags: []
+user_id: Admin

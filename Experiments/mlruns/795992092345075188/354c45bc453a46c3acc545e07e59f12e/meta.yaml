@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/354c45bc453a46c3acc545e07e59f12e/artifacts
+end_time: 1715897789307
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: 354c45bc453a46c3acc545e07e59f12e
+run_name: enchanting-boar-49
+run_uuid: 354c45bc453a46c3acc545e07e59f12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715897787358
+status: 3
+tags: []
+user_id: Admin

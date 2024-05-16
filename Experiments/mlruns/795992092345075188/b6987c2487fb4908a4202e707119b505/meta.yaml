@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/b6987c2487fb4908a4202e707119b505/artifacts
+end_time: 1715897786350
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: b6987c2487fb4908a4202e707119b505
+run_name: shivering-carp-363
+run_uuid: b6987c2487fb4908a4202e707119b505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715897785472
+status: 3
+tags: []
+user_id: Admin

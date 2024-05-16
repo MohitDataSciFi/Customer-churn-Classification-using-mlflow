@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/58c485041a6844e2b97ec68e960acec1/artifacts
+end_time: 1715897785447
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: 58c485041a6844e2b97ec68e960acec1
+run_name: bold-bat-696
+run_uuid: 58c485041a6844e2b97ec68e960acec1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715897784639
+status: 3
+tags: []
+user_id: Admin

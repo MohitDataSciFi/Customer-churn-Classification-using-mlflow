@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/ecb52ce097524f66a5bc94da900c59f8/artifacts
+end_time: 1715897153448
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: ecb52ce097524f66a5bc94da900c59f8
+run_name: auspicious-crane-293
+run_uuid: ecb52ce097524f66a5bc94da900c59f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715897153372
+status: 4
+tags: []
+user_id: Admin

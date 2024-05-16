@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/8386badfabce49aeae9d5a67d3e832d2/artifacts
+end_time: 1715897515353
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: 8386badfabce49aeae9d5a67d3e832d2
+run_name: enchanting-snipe-124
+run_uuid: 8386badfabce49aeae9d5a67d3e832d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715897513066
+status: 3
+tags: []
+user_id: Admin

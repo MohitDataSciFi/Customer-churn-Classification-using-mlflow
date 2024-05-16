@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/Desktop/fl/Customer-churn-Classification-using-mlflow/Experiments/mlruns/795992092345075188/218d3f532d2b4728a87114761fd75a68/artifacts
+end_time: 1715897781600
+entry_point_name: ''
+experiment_id: '795992092345075188'
+lifecycle_stage: active
+run_id: 218d3f532d2b4728a87114761fd75a68
+run_name: sassy-stoat-1000
+run_uuid: 218d3f532d2b4728a87114761fd75a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715897779208
+status: 3
+tags: []
+user_id: Admin
